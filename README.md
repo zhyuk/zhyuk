@@ -1,7 +1,7 @@
 ### Hi👋 I'm JiHyuk Choi
 ---
-I'm Studying at Kaywon University of Art & Design.<br>
-I’m currently learning javascript, jQuery
+🏫 Studying at Kaywon University of Art & Design.<br>
+🌱 currently learning javascript, jQuery<br>
 <!-- 
 **zhyuk/zhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
