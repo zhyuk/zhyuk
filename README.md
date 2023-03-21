@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### How to reach me: pc9445@naver.com
 <!--
 **zhyuk/zhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
