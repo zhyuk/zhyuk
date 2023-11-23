@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=square&logo=Node.js&logoColor=white">
 
 #### 💻 Contact
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>@zhyukee</a>
-<img src="https://img.shields.io/badge/naver-03c75a?style=flat-square&logo=naver&logoColor=white"/>pc9445@naver.com</a>
-
+e-mail : pc9445@naver.com
+instagram : zhyukee
 
