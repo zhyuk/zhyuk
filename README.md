@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=150&text=zhyuk&fontSize=80&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=150&text=zhyuk&fontSize=80&animation=blinking&&fontColor=#AAFF01)
 
 ### Front-end Developver Portfolio 2023 버전.
 
