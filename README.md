@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&text=zhyuk&fontSize=80&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=150&text=zhyuk&fontSize=80&animation=blinking)
 
 ### Portfolio 2023 ver
 
