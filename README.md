@@ -1,4 +1,7 @@
-# 프론트엔드 개발자를 희망하는 zhyuk의  2023 포트폴리오
---- 
+### Portfolio 2023 ver
+
 <https://zhyuk.github.io/portfolio/>
 
+#### 📂 learn Stacks
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
