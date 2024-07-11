@@ -11,5 +11,3 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=square&logo=Node.js&logoColor=white">
-<img src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
