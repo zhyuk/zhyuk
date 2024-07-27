@@ -4,16 +4,10 @@
 <https://zhyuk.github.io/portfolio/>
 
 #### 📂 learn Stacks
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=square&logo=oracle&logoColor=white">
-
-
-#### 🛠️ Used Skill
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=figma&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white"></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle-F80000?style=square&logo=oracle&logoColor=white"/>
