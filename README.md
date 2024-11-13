@@ -18,7 +18,7 @@
 #### 🛠️ Used Skill
 <div>
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=square&logo=apachetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=square&logo=apachetomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-003545?style=square&logo=mariadb&logoColor=white"/>
