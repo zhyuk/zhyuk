@@ -23,6 +23,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-003545?style=square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=square&logo=aws&logoColor=white"/>
   
 </div>
